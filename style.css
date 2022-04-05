@@ -1,0 +1,120 @@
+body {
+    background: rgba(30, 30, 32, 1);
+}
+.logo{
+    text-align: center;
+}
+
+.txt1 {
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.container{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 194px;
+    width: 700px;
+    margin: 0 auto;
+
+
+}
+
+.box{
+    color: rgba(156, 156, 156, 1);
+    width: 160px;
+    
+}
+
+.box img:hover{
+    transform: scale(1.1);
+    border: 0.5px solid white;
+}
+
+.box h3{
+    text-align: center;
+    
+}
+
+.box:hover{
+    color: white
+   
+
+}
+
+.txt2 {
+    text-align: center;
+    border: 1.5px solid rgba(255, 255, 255, 1);
+    color: white;
+    width: 206px;
+    margin: 0 auto;
+    margin-top: 60px;
+    border-radius: 7px;
+}
+
+.txt2:hover {
+    background-color: white;
+    color: black;
+}
+
+.img4{
+    position: absolute;
+    
+}
+
+/* .bolinha{
+    position: relative;
+    left: 35px;
+}
+.vertical {
+    position: relative;
+    margin: 0 auto;
+    bottom: 15px;
+    right: 2px;
+}
+
+.horizontal{
+    position: relative;
+    bottom: 25px;
+    right: 24px;
+} */
+
+.quatro {
+    background-color: #495057;
+    width: 160px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.quatro:hover {
+    border: 0.5px solid white;
+    transform: scale(1.1);
+    
+}
+.img4:hover{
+    background-color: white;
+    border-radius: 30px;
+}
+
+.tx3 {
+    color: rgba(156, 156, 156, 1);
+    text-align: center;
+}
+.tx3:hover {
+    color: white;
+}
+.quartobox:hover {
+    color: white;
+}
+
+
+
+
+
+
